@@ -1,0 +1,11 @@
+img{
+    width: 90%;
+    height: 300px;
+    object-fit: contain;
+}
+
+
+.product-details{
+    margin-top: 20px;
+    margin-bottom: 80px;    
+}

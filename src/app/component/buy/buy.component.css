@@ -1,0 +1,19 @@
+h1{
+    font-weight: bold;
+    font-style: italic;
+    color: blue;
+    font-size: 20px;
+    font:medium;
+    
+
+}
+
+button{
+    margin-left:250px;
+    padding: 20px;
+    
+    
+    position: relative;
+    margin-top: 500px;
+    
+}
